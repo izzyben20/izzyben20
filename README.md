@@ -3,7 +3,7 @@
 - 🌱 My stacks include Javascript, ReactJs, CSS, SASS, HTML5, Redux/Redux-Toolkit
 - I'm currently learning NextJs, Typescript & Node.js
 - 💞️ I’m open to collaboration on any frontend products
-- 📫 Email: isaacoyedele@hotmail.com izicbenjamin@gmail.com
+- 📫 Email: isaacoyedele@hotmail.com isaacoyedele2@gmail.com
 
 <!---
 izzyben20/izzyben20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
