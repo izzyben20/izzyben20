@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Isaac Oyedele
 - 👀 I’m a frontend Developer
-- 🌱 My stacks include Javascript, ReactJs, CSS, SASS, HTML5, Redux/Redux-Toolkit
-- I'm currently learning NextJs, Typescript & Node.js
+- 🌱 My stacks include Javascript, Typescript, ReactJs, CSS, SASS, HTML5, Redux/Redux-Toolkit
+- I'm currently learning NextJs, Node.js & Express
 - 💞️ I’m open to collaboration on any frontend products
 - 📫 Email: isaacoyedele@hotmail.com isaacoyedele2@gmail.com
 
